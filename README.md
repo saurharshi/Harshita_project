@@ -29,7 +29,7 @@
 
     
     <div class="mt-16 p-4">
-        <p>Welcome to MyWebsite. Your content goes here.</p>
+        <p>Welcome to MyWebsite.</p>
     </div>
 
 </body>
